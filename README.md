@@ -45,7 +45,12 @@ Distribution of the Python used is [Anaconda Python distribution](https://www.an
 ### Full Description of the Tasks  <a name="full_description_of_the_tasks"></a>
 
   * ***counts.py*** <a name="task1"></a>
-This Python function takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values. 
+This Python function takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values.
+
+_Ouput of the above function:_
+    
+    In [2]: counts(['A', 'A', 'B', 'C', 'A'])
+    Out[2]: {'A': 3, 'B': 1, 'C': 1}
 
   * <a name="task2"></a>
 
@@ -60,3 +65,6 @@ This Python function takes a list as input and returns a dictionary of unique it
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 #### Acknowledgment <a name="acknowledgment"></a>
+
+  * [Lecturer of GMIT Ian McLoughlin](https://github.com/ianmcloughlin)
+  * [GeeksforGeeks](www.geeksforgeeks)
