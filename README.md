@@ -13,13 +13,7 @@ The repository consists of four tasks covering various topics on Fundamentals of
 ## Table of Contents
 * [Set up](#set_up)
 * [How to run the code](#how_to_run_the_code)
-* [Full Description of the Tasks](#full_description_of_the_tasks)
-	* [Task 1](#task1)
-	* [Task 2](#task2)
-	* [Task 3](#task3)
-	* [Task 4](#task4)
 * [License](#licence)
-* [Acknowledgment](#acknowledgment)
 
 ----
 
@@ -27,7 +21,9 @@ The repository consists of four tasks covering various topics on Fundamentals of
 
 Applications used for completion of the tasks are [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
 
-Distribution of the Python used is [Anaconda Python distribution](https://www.anaconda.com/). 
+Distribution of Python used is [Anaconda Python distribution](https://www.anaconda.com/). 
+
+Libraries used to complete the tasks: [random](https://docs.python.org/3/library/random.html), [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [seaborn](http://seaborn.pydata.org/). All of these are installed with the Anaconda Python distribution.
 
 ----
 
@@ -41,30 +37,6 @@ Distribution of the Python used is [Anaconda Python distribution](https://www.an
 
 ----
 
-
-### Full Description of the Tasks  <a name="full_description_of_the_tasks"></a>
-
-  * ***counts.py*** <a name="task1"></a>
-This Python function takes a list as input and returns a dictionary of unique items in the list as keys and the number of times each item appears as values.
-
-_Ouput of the above function:_
-    
-    In [2]: counts(['A', 'A', 'B', 'C', 'A'])
-    Out[2]: {'A': 3, 'B': 1, 'C': 1}
-
-  * <a name="task2"></a>
-
-  * <a name="task3"></a>
-
-  * <a name="task4"></a>
-
-----
-
 #### License <a name="licence"></a>
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-
-#### Acknowledgment <a name="acknowledgment"></a>
-
-  * [Lecturer of GMIT Ian McLoughlin](https://github.com/ianmcloughlin)
-  * [GeeksforGeeks](www.geeksforgeeks)
