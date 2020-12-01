@@ -37,6 +37,6 @@ Libraries used to complete the tasks: [random](https://docs.python.org/3/library
 
 ----
 
-#### License <a name="licence"></a>
+### License <a name="licence"></a>
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
