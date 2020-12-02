@@ -1,4 +1,8 @@
-# Task Assessment Fundamentals of Data Analysis Module GMIT 2020
+## Task Assessment Fundamentals of Data Analysis Module GMIT 2020
+
+<img align="left" width="250" height="120" src="https://www.pngkey.com/png/detail/262-2622379_chow-big-data-analytics-png.png">
+
+<br><br><br><br><br>
 
 The repository consists of four tasks covering various topics on Fundamentals of Data Analysis.
 
@@ -10,14 +14,14 @@ The repository consists of four tasks covering various topics on Fundamentals of
 
 ----
 
-## Table of Contents
+### Table of Contents
 * [Set up](#set_up)
 * [How to run the code](#how_to_run_the_code)
 * [License](#licence)
 
 ----
 
-### Set up <a name="set_up"></a>
+#### Set up <a name="set_up"></a>
 
 Applications used for completion of the tasks are [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
 
@@ -27,7 +31,7 @@ Libraries used to complete the tasks: [random](https://docs.python.org/3/library
 
 ----
 
-###  How to run the code <a name="how_to_run_the_code"></a>
+####  How to run the code <a name="how_to_run_the_code"></a>
 
 1. Make sure that you have Python installed
 2. Download or clone current repository "Fundamentals-of-Data-Analysis-Tasks"
@@ -37,6 +41,6 @@ Libraries used to complete the tasks: [random](https://docs.python.org/3/library
 
 ----
 
-### License <a name="licence"></a>
+#### License <a name="licence"></a>
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
