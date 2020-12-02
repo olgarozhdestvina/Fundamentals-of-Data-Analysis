@@ -1,4 +1,4 @@
-# Fundamentals of Data Analysis Module GMIT 2020
+# Task Assessment Fundamentals of Data Analysis Module GMIT 2020
 
 The repository consists of four tasks covering various topics on Fundamentals of Data Analysis.
 
@@ -23,14 +23,14 @@ Applications used for completion of the tasks are [The Jupyter Notebook](https:/
 
 Distribution of Python used is [Anaconda Python distribution](https://www.anaconda.com/). 
 
-Libraries used to complete the tasks: [random](https://docs.python.org/3/library/random.html), [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [seaborn](http://seaborn.pydata.org/). All of these are installed with the Anaconda Python distribution.
+Libraries used to complete the tasks: [random](https://docs.python.org/3/library/random.html), [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [seaborn](http://seaborn.pydata.org/), [pandas](https://pandas.pydata.org/). All of these are installed with the Anaconda Python distribution.
 
 ----
 
 ###  How to run the code <a name="how_to_run_the_code"></a>
 
 1. Make sure that you have Python installed
-2. Download or clone current repository "Machine-Learning-and-Statistics"
+2. Download or clone current repository "Fundamentals-of-Data-Analysis-Tasks"
 3. Open Command Interpreter and get into correct directory
 4. Run Jupyter notebook
 5. On the home page of opened Jupyter server select Tasks.ipynb
