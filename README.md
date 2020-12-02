@@ -1,8 +1,8 @@
 ## Task Assessment Fundamentals of Data Analysis Module GMIT 2020
 
-<img align="left" width="250" height="120" src="https://www.pngkey.com/png/detail/262-2622379_chow-big-data-analytics-png.png">
+<img align="center" height="220" src="https://www.smartdatacollective.com/wp-content/uploads/2017/05/flow.png">
 
-<br><br><br><br><br>
+<br>
 
 The repository consists of four tasks covering various topics on Fundamentals of Data Analysis.
 
