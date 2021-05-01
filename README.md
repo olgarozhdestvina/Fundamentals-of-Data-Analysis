@@ -4,7 +4,14 @@
 
 <br>
 
-The repository consists of four tasks covering various topics on Fundamentals of Data Analysis.
+The repository consists of four tasks covering various topics on Fundamentals of Data Analysis:
+
+* Outputting a dictionary of unique items with the number of appearances from a list without using Python libraries
+* Dice roll simulation
+* Flip a coin simulation
+* Simpson’s paradox.
+
+<br>
 
 *Submitted by:* Olga Rozhdestvina (Student No: G00387844) 
 
@@ -14,14 +21,8 @@ The repository consists of four tasks covering various topics on Fundamentals of
 
 ----
 
-### Table of Contents
-* [Set up](#set_up)
-* [How to run the code](#how_to_run_the_code)
-* [License](#licence)
 
-----
-
-#### Set up <a name="set_up"></a>
+#### Set up 
 
 Applications used for completion of the tasks are [The Jupyter Notebook](https://jupyter.org/) and [cmder](http://cmder.net/)
 
@@ -31,7 +32,7 @@ Libraries used to complete the tasks: [random](https://docs.python.org/3/library
 
 ----
 
-####  How to run the code <a name="how_to_run_the_code"></a>
+####  How to run the code
 
 1. Make sure that you have Python installed
 2. Download or clone current repository "Fundamentals-of-Data-Analysis-Tasks"
@@ -43,6 +44,6 @@ Libraries used to complete the tasks: [random](https://docs.python.org/3/library
 
 ----
 
-#### License <a name="licence"></a>
+#### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
